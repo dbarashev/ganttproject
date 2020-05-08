@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar id="ru" name="Russian Holidays 2015-2020" type="country">
+<calendar id="ru" name="Russian Holidays 2013-2021" type="country">
 <!-- Data sources
 Calendar contributed by Dmitry Barashev
-http://www.consultant.ru/law/ref/calendar/proizvodstvennye/2018/
+Feb 24 2020 Expanded to 2013, 2014, 2020, 2021 and fixed by Roman Bulygin <rbulygin@gmail.com>
+http://www.consultant.ru/law/ref/calendar/proizvodstvennye/
 -->
         <date year="" month="1" date="1" type="HOLIDAY"><![CDATA[Новый Год]]></date>
+        <date year="" month="1" date="2" type="HOLIDAY"><![CDATA[Новогодние каникулы]]></date>
+        <date year="" month="1" date="3" type="HOLIDAY"><![CDATA[Новогодние каникулы]]></date>
+        <date year="" month="1" date="4" type="HOLIDAY"><![CDATA[Новогодние каникулы]]></date>
+        <date year="" month="1" date="5" type="HOLIDAY"><![CDATA[Новогодние каникулы]]></date>
         <date year="" month="1" date="7" type="HOLIDAY"><![CDATA[Рождество Христово]]></date>
+        <date year="" month="1" date="8" type="HOLIDAY"><![CDATA[Новогодние каникулы]]></date>
         <date year="" month="2" date="23" type="HOLIDAY"><![CDATA[День Защитника Отечества]]></date>
         <date year="" month="3" date="8" type="HOLIDAY"><![CDATA[Международный женский день]]></date>
         <date year="" month="5" date="1" type="HOLIDAY"><![CDATA[Праздник Весны и Труда]]></date>
@@ -13,77 +19,54 @@ http://www.consultant.ru/law/ref/calendar/proizvodstvennye/2018/
         <date year="" month="6" date="12" type="HOLIDAY"><![CDATA[День России]]></date>
         <date year="" month="11" date="4" type="HOLIDAY"><![CDATA[День народного единства]]></date>
 
-        <date year="2020" month="1" date="2" type="HOLIDAY"><![CDATA[Новогодние каникулы]]></date>
-        <date year="2020" month="1" date="3" type="HOLIDAY"><![CDATA[Новогодние каникулы]]></date>
-        <date year="2020" month="1" date="4" type="HOLIDAY"><![CDATA[Новогодние каникулы]]></date>
-        <date year="2020" month="1" date="5" type="HOLIDAY"><![CDATA[Новогодние каникулы]]></date>
-        <date year="2020" month="1" date="6" type="HOLIDAY"><![CDATA[Новогодние каникулы]]></date>
-        <date year="2020" month="1" date="8" type="HOLIDAY"><![CDATA[Новогодние каникулы]]></date>
-        <date year="2020" month="2" date="24" type="HOLIDAY"><![CDATA[Перенесённый выходной (с 23 февраля)]]></date>
-        <date year="2020" month="3" date="9" type="HOLIDAY"><![CDATA[Перенесённый выходной (с 8 марта)]]></date>
-        <date year="2020" month="5" date="4"><![CDATA[Перенесённый выходной (с 4 января)]]></date>
-        <date year="2020" month="5" date="5"><![CDATA[Перенесённый выходной (с 5 января)]]></date>
+        <date year="2013" month="5" date="2" type="HOLIDAY"><![CDATA[Перенесённый выходной (5 января)]]></date>
+        <date year="2013" month="5" date="3" type="HOLIDAY"><![CDATA[Перенесённый выходной (6 января)]]></date>
+        <date year="2013" month="5" date="10" type="HOLIDAY"><![CDATA[Перенесённый выходной (25 февраля)]]></date>
 
-        <date year="2019" month="1" date="2" type="HOLIDAY"><![CDATA[Новогодние каникулы]]></date>
-        <date year="2019" month="1" date="3" type="HOLIDAY"><![CDATA[Новогодние каникулы]]></date>
-        <date year="2019" month="1" date="4" type="HOLIDAY"><![CDATA[Новогодние каникулы]]></date>
-        <date year="2019" month="1" date="8" type="HOLIDAY"><![CDATA[Новогодние каникулы]]></date>
-        <date year="2019" month="5" date="2"><![CDATA[Перенесённый выходной (с 5 января)]]></date>
-        <date year="2019" month="5" date="3"><![CDATA[Перенесённый выходной (с 6 января)]]></date>
-        <date year="2019" month="5" date="10"><![CDATA[Перенесённый выходной (с 23 февраля)]]></date>
+        <date year="2014" month="3" date="10" type="HOLIDAY"><![CDATA[Перенесённый выходной (8 марта)]]></date>
+        <date year="2014" month="5" date="2" type="HOLIDAY"><![CDATA[Перенесённый выходной (4 января)]]></date>
+        <date year="2014" month="6" date="13" type="HOLIDAY"><![CDATA[Перенесённый выходной (5 января)]]></date>
+        <date year="2014" month="11" date="3" type="HOLIDAY"><![CDATA[Перенесённый выходной (24 февраля)]]></date>
 
-        <date year="2015" month="1" date="2" type="HOLIDAY"><![CDATA[Новогодние каникулы]]></date>
-        <date year="2015" month="1" date="3" type="HOLIDAY"><![CDATA[Новогодние каникулы]]></date>
-        <date year="2015" month="1" date="4" type="HOLIDAY"><![CDATA[Новогодние каникулы]]></date>
-        <date year="2015" month="1" date="5" type="HOLIDAY"><![CDATA[Новогодние каникулы]]></date>
-        <date year="2015" month="1" date="6" type="HOLIDAY"><![CDATA[Новогодние каникулы]]></date>
-        <date year="2015" month="1" date="8" type="HOLIDAY"><![CDATA[Новогодние каникулы]]></date>
         <date year="2015" month="1" date="9" type="HOLIDAY"><![CDATA[Перенесённый выходной (3 января)]]></date>
+        <date year="2015" month="3" date="9" type="HOLIDAY"><![CDATA[Перенесённый выходной (8 марта)]]></date>
         <date year="2015" month="5" date="4" type="HOLIDAY"><![CDATA[Перенесённый выходной (4 января)]]></date>
+        <date year="2015" month="5" date="11" type="HOLIDAY"><![CDATA[Перенесённый выходной (9 мая)]]></date>
 
-        <date year="2016" month="1" date="2" type="HOLIDAY"><![CDATA[Новогодние каникулы]]></date>
-        <date year="2016" month="1" date="3" type="HOLIDAY"><![CDATA[Новогодние каникулы]]></date>
-        <date year="2016" month="1" date="4" type="HOLIDAY"><![CDATA[Новогодние каникулы]]></date>
-        <date year="2016" month="1" date="5" type="HOLIDAY"><![CDATA[Новогодние каникулы]]></date>
-        <date year="2016" month="1" date="6" type="HOLIDAY"><![CDATA[Новогодние каникулы]]></date>
-        <date year="2016" month="1" date="8" type="HOLIDAY"><![CDATA[Новогодние каникулы]]></date>
-        <date year="2016" month="2" date="20" type="WORKING_DAY"><![CDATA[Выходной перенесен на 2016-02-22]]></date>
+        <date year="2016" month="2" date="20" type="WORKING_DAY"><![CDATA[Перенесённый рабочий (22 февраля)]]></date>
         <date year="2016" month="2" date="22" type="HOLIDAY"><![CDATA[Перенесённый выходной (20 февраля)]]></date>
         <date year="2016" month="3" date="7" type="HOLIDAY"><![CDATA[Перенесённый выходной (3 января)]]></date>
         <date year="2016" month="5" date="2" type="HOLIDAY"><![CDATA[Перенесённый выходной (1 мая)]]></date>
         <date year="2016" month="5" date="3" type="HOLIDAY"><![CDATA[Перенесённый выходной (2 января)]]></date>
         <date year="2016" month="6" date="13" type="HOLIDAY"><![CDATA[Перенесённый выходной (12 июня)]]></date>
 
-        <date year="2017" month="1" date="2" type="HOLIDAY"><![CDATA[Новогодние каникулы]]></date>
-        <date year="2017" month="1" date="3" type="HOLIDAY"><![CDATA[Новогодние каникулы]]></date>
-        <date year="2017" month="1" date="4" type="HOLIDAY"><![CDATA[Новогодние каникулы]]></date>
-        <date year="2017" month="1" date="5" type="HOLIDAY"><![CDATA[Новогодние каникулы]]></date>
-        <date year="2017" month="1" date="6" type="HOLIDAY"><![CDATA[Новогодние каникулы]]></date>
-        <date year="2017" month="1" date="8" type="HOLIDAY"><![CDATA[Новогодние каникулы]]></date>
         <date year="2017" month="2" date="24" type="HOLIDAY"><![CDATA[Перенесённый выходной (1 января)]]></date>
         <date year="2017" month="5" date="8" type="HOLIDAY"><![CDATA[Перенесённый выходной (7 января)]]></date>
         <date year="2017" month="11" date="6" type="HOLIDAY"><![CDATA[Перенесённый выходной (4 ноября)]]></date>
 
-        <date year="2018" month="1" date="2" type="HOLIDAY"><![CDATA[Новогодние каникулы]]></date>
-        <date year="2018" month="1" date="3" type="HOLIDAY"><![CDATA[Новогодние каникулы]]></date>
-        <date year="2018" month="1" date="4" type="HOLIDAY"><![CDATA[Новогодние каникулы]]></date>
-        <date year="2018" month="1" date="5" type="HOLIDAY"><![CDATA[Новогодние каникулы]]></date>
-        <date year="2018" month="3" date="9"><![CDATA[Перенесённый выходной (с 6 января)]]></date>
-        <date year="2018" month="4" date="28" type="WORKING_DAY"><![CDATA[Рабочий день взамен 30 апреля]]></date>
-        <date year="2018" month="4" date="30"><![CDATA[Перенесённый выходной (с 28 апреля)]]></date>
-        <date year="2018" month="5" date="2"><![CDATA[Перенесённый выходной (с 7 января)]]></date>
-        <date year="2018" month="6" date="9" type="WORKING_DAY"><![CDATA[Рабочий день взамен 11 июня]]></date>
-        <date year="2018" month="6" date="11"><![CDATA[Перенесённый выходной (с 9 июня)]]></date>
-        <date year="2018" month="12" date="29" type="WORKING_DAY"><![CDATA[Рабочий день взамен 31 декабря]]></date>
-        <date year="2018" month="12" date="31"><![CDATA[Перенесённый выходной (с 29 декабря)]]></date>
+        <date year="2018" month="3" date="9" type="HOLIDAY"><![CDATA[Перенесённый выходной (с 6 января)]]></date>
+        <date year="2018" month="4" date="28" type="WORKING_DAY"><![CDATA[Перенесённый рабочий (30 апреля)]]></date>
+        <date year="2018" month="4" date="30" type="HOLIDAY"><![CDATA[Перенесённый выходной (с 28 апреля)]]></date>
+        <date year="2018" month="5" date="2" type="HOLIDAY"><![CDATA[Перенесённый выходной (с 7 января)]]></date>
+        <date year="2018" month="6" date="9" type="WORKING_DAY"><![CDATA[Перенесённый рабочий (11 июня)]]></date>
+        <date year="2018" month="6" date="11" type="HOLIDAY"><![CDATA[Перенесённый выходной (с 9 июня)]]></date>
+        <date year="2018" month="11" date="5" type="HOLIDAY"><![CDATA[Перенесённый выходной (с 4 ноября)]]></date>
+        <date year="2018" month="12" date="29" type="WORKING_DAY"><![CDATA[Перенесённый рабочий (31 декабря)]]></date>
+        <date year="2018" month="12" date="31" type="HOLIDAY"><![CDATA[Перенесённый выходной (с 29 декабря)]]></date>
 
-        <date year="2019" month="1" date="2" type="HOLIDAY"><![CDATA[Новогодние каникулы]]></date>
-        <date year="2019" month="1" date="3" type="HOLIDAY"><![CDATA[Новогодние каникулы]]></date>
-        <date year="2019" month="1" date="4" type="HOLIDAY"><![CDATA[Новогодние каникулы]]></date>
-        <date year="2019" month="1" date="8" type="HOLIDAY"><![CDATA[Новогодние каникулы]]></date>
-        <date year="2019" month="5" date="2"><![CDATA[Перенесённый выходной (с 5 января)]]></date>
-        <date year="2019" month="5" date="3"><![CDATA[Перенесённый выходной (с 6 января)]]></date>
-        <date year="2019" month="5" date="10"><![CDATA[Перенесённый выходной (с 23 февраля)]]></date>
+        <date year="2019" month="5" date="2" type="HOLIDAY"><![CDATA[Перенесённый выходной (с 5 января)]]></date>
+        <date year="2019" month="5" date="3" type="HOLIDAY"><![CDATA[Перенесённый выходной (с 6 января)]]></date>
+        <date year="2019" month="5" date="10" type="HOLIDAY"><![CDATA[Перенесённый выходной (с 23 февраля)]]></date>
+
+        <date year="2020" month="2" date="24" type="HOLIDAY"><![CDATA[Перенесённый выходной (с 23 февраля)]]></date>
+        <date year="2020" month="3" date="9" type="HOLIDAY"><![CDATA[Перенесённый выходной (с 8 марта)]]></date>
+        <date year="2020" month="5" date="4" type="HOLIDAY"><![CDATA[Перенесённый выходной (с 4 января)]]></date>
+        <date year="2020" month="5" date="5" type="HOLIDAY"><![CDATA[Перенесённый выходной (с 5 января)]]></date>
+        <date year="2020" month="5" date="11" type="HOLIDAY"><![CDATA[Перенесённый выходной (с 9 мая)]]></date>
+
+        <date year="2021" month="5" date="3" type="HOLIDAY"><![CDATA[Перенесённый выходной (с 1 мая)]]></date>
+        <date year="2021" month="5" date="10" type="HOLIDAY"><![CDATA[Перенесённый выходной (с 9 мая)]]></date>
+        <date year="2021" month="6" date="14" type="HOLIDAY"><![CDATA[Перенесённый выходной (с 12 июня)]]></date>
 
 </calendar >
 
