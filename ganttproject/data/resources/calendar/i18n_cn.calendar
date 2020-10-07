@@ -45,6 +45,11 @@
 	<date year="2019" month="02" date="09"><![CDATA[Chinese New Year]]></date>
 	<date year="2019" month="02" date="10"><![CDATA[Chinese New Year]]></date>
 	<date year="2019" month="04" date="05"><![CDATA[Ching Ming Festival]]></date>
+	<date year="2019" month="04" date="28" type="WORKING_DAY"><![CDATA[Compensation of 2019-05-02]]></date>
+	<date year="2019" month="05" date="02"><![CDATA[Labor Day]]></date>
+	<date year="2019" month="05" date="03"><![CDATA[Labor Day]]></date>
+	<date year="2019" month="05" date="04"><![CDATA[Labor Day]]></date>
+	<date year="2019" month="05" date="05" type="WORKING_DAY"><![CDATA[Compensation of 2019-05-03]]></date>
 	<date year="2019" month="06" date="07"><![CDATA[Dragon Boat Festival]]></date>
 	<date year="2019" month="09" date="13"><![CDATA[Mid Autumn Festival]]></date>
 	<date year="2019" month="09" date="29" type="WORKING_DAY"><![CDATA[Compensation of 2019-10-04]]></date>
