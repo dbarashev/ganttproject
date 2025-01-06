@@ -45,7 +45,7 @@ dependencies {
 
     exported "de.jensd:fontawesomefx-commons:9.1.2"
     exported "de.jensd:fontawesomefx-fontawesome:4.7.0-9.1.2"
-    exported "de.jensd:fontawesomefx-materialicons:2.2.0-9.1.2"
+    exported "de.jensd:fontawesomefx-materialicons:2.2.0-11"
 
     exported 'net.java.balloontip:balloontip:1.2.4.1'
     exported "org.apache.commons:commons-lang3:3.17.0"
