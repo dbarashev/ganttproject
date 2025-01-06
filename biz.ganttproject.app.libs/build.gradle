@@ -44,7 +44,7 @@ dependencies {
     exported "com.squareup.okhttp3:okhttp:3.14.9"
 
     exported "de.jensd:fontawesomefx-commons:9.1.2"
-    exported "de.jensd:fontawesomefx-fontawesome:4.7.0-9.1.2"
+    exported "de.jensd:fontawesomefx-fontawesome:4.7.0-11"
     exported "de.jensd:fontawesomefx-materialicons:2.2.0-9.1.2"
 
     exported 'net.java.balloontip:balloontip:1.2.4.1'
